@@ -56,12 +56,13 @@ This project is deployed on **Netlify**.
 ---
 
 ## 📸 Screenshots
-./Screenshot-1.png
-./Screenshot-2.png
-./Screenshot-3.png
 
 ### 🔍 Recipe Search
 
 ![Recipe Search](./Screenshot-1.png)
+
+---
+
+![Recipe Search](./Screenshot-3.png)
 
 ---
