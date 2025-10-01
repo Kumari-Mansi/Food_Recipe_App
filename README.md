@@ -1,4 +1,4 @@
-🍴 Food Plaza App
+# Food Plaza App
 
 A modern and responsive **Food Recipe Web Application** built using **React.js** and **React Router**.
 
@@ -56,9 +56,9 @@ This project is deployed on **Netlify**.
 ---
 
 ## 📸 Screenshots
-Screenshot-1.png
-Screenshot-2.png
-Screenshot-3.png
+./Screenshot-1.png
+./Screenshot-2.png
+./Screenshot-3.png
 
 ### 🔍 Recipe Search
 
