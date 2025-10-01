@@ -63,6 +63,3 @@ This project is deployed on **Netlify**.
 
 ---
 
-![Recipe Search](./Screenshot-3.png)
-
----
